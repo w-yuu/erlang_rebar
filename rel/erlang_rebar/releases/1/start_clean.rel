@@ -1,0 +1,8 @@
+%% rel generated at {2012,11,16} {17,4,31}
+{release,{"start_clean",[]},
+         {erts,"5.9.1"},
+         [{kernel,"2.15.1"},
+          {stdlib,"1.18.1"},
+          {erlang_rebar,[],load},
+          {sasl,"2.2.1",load}]}.
+

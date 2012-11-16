@@ -1,0 +1,8 @@
+run_erl [23405] Fri Nov 16 17:05:41 2012
+Args before exec of shell:
+run_erl [23405] Fri Nov 16 17:05:41 2012
+argv[0] = sh
+run_erl [23405] Fri Nov 16 17:05:41 2012
+argv[1] = -c
+run_erl [23405] Fri Nov 16 17:05:41 2012
+argv[2] = exec /Users/xxxwhiterozexxx/github/erlang_rebar/rel/erlang_rebar/bin/erlang_rebar console '' 

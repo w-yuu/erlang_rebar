@@ -1,0 +1,10 @@
+[{release,"erlang_rebar","1","5.9.1",
+          [{kernel,"2.15.1",
+                   "/Users/xxxwhiterozexxx/github/erlang_rebar/rel/erlang_rebar/lib/kernel-2.15.1"},
+           {stdlib,"1.18.1",
+                   "/Users/xxxwhiterozexxx/github/erlang_rebar/rel/erlang_rebar/lib/stdlib-1.18.1"},
+           {sasl,"2.2.1",
+                 "/Users/xxxwhiterozexxx/github/erlang_rebar/rel/erlang_rebar/lib/sasl-2.2.1"},
+           {erlang_rebar,[],
+                         "/Users/xxxwhiterozexxx/github/erlang_rebar/rel/erlang_rebar/lib/erlang_rebar-"}],
+          permanent}].
